@@ -1,0 +1,43 @@
+.img {
+  margin: 10px;
+  padding: 5px;
+}
+
+body {
+  font-family: cursive;
+}
+
+h3 {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+h1 {
+  text-align: center;
+  font-family: inherit;
+  font-size: 50px
+}
+
+.under {
+  text-decoration: underline;
+}
+
+.bullet {
+  list-style-type: circle;
+}
+
+.sidebar {
+  width: 25%;
+  float: right;
+  background-color: #f2d0ff;
+}
+
+.column {
+  width: 300px;
+  float: left;
+  padding: 5px
+}
+
+.highlight {
+  background-color: yellow;
+}
