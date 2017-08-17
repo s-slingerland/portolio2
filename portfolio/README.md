@@ -12,7 +12,7 @@ _This web page was created for potential future employers to look at to decide i
 
 _1. Clone this repository here https://github.com/s-slingerland/portfolio_
 
-_2. Open in web browser_
+_2. Open in web browser here https://s-slingerland.github.io/portolio2/portfolio/index.html_
 
 ## Technologies Used
 
